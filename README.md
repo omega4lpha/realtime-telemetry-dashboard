@@ -30,7 +30,7 @@ A high-performance data visualization project that simulates real-time server te
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/grafana-realtime-metrics.git
+git clone https://github.com/omega4lpha/grafana-realtime-metrics.git
 cd grafana-realtime-metrics
 ```
 
@@ -82,3 +82,4 @@ Feel free to reach out if you have questions or want to discuss data engineering
 
 - **LinkedIn**: [Boris Herrera Flores](https://www.linkedin.com/in/boris-herrera-flores/)
 - **GitHub**: [Omega4lpha](https://github.com/omega4lpha)
+
